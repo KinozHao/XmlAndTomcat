@@ -12,7 +12,6 @@
 
 3. 数据传输载体
 
-![icon](img/document.png)
 
 ##定义xml
 
@@ -153,7 +152,7 @@
 
 * SAX
 
-![icon](img/parse_type.png)
+
 
 ###针对这两种解析方式的API
 
