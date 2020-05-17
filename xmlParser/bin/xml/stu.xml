@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="gbk"?>
+<stus>
+	<stu id="199">
+		<name>LEO</name>
+		<age>12</age>
+		<address>shanghai</address>
+	</stu>
+	
+		<stu id="1929">
+		<name>Jom</name>
+		<name>Jomd</name>
+		<name>Jom3</name>
+		<age>123</age>
+		<address>beijing</address>
+	</stu>
+</stus>

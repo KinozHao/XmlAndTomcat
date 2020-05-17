@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- xmlns: xml namespace:名称空间
+torgetNamespace:目标名称空间 下面定义的那些元素都与这个名称空间绑定上
+elementFormDefaultL:元素的格式化情况 -->
+
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+		targetNamespace="http://www.example.org/teacher" 
+		xmlns:tns="http://www.example.org/teacher" 
+		elementFormDefault="qualified">
+</schema>

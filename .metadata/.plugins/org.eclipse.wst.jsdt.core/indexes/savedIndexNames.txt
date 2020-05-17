@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+E:\XmlTomcatPrimary\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3261790856.index
+3287091533.index
+2620156032.index
+3311814377.index
+928640956.index

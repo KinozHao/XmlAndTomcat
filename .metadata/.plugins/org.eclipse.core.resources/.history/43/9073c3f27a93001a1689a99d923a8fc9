@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<!-- 引入DTD来约束这个文件 -->
+<!-- 这个是网络上的DTD引用 -->
+<!-- <!DOCTYPE stus PUBLIC "//UNKNOWN/" "unknown.dtd"> -->
+
+<!-- 本地引用格式 -->
+<!DOCTYPE stus SYSTEM "stus.dtd">
+
+<stus>
+	<stu id="199">
+		<name>LEO</name>
+		<age>12</age>
+	</stu>
+</stus>

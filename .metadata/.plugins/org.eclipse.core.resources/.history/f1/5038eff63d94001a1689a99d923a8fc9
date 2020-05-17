@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="gbk"?>
+
+<!-- 引入DTD来约束这个文件 -->
+<!-- 这个是网络上的DTD引用 -->
+<!-- <!DOCTYPE stus PUBLIC "//UNKNOWN/" "unknown.dtd"> -->
+
+<!-- 本地引用格式 -->
+<!DOCTYPE stus SYSTEM "stus.dtd">
+
+<!-- 文件内直接引用格式 -->
+<!-- <!DOCTYPE stus[
+	<!ELEMENT stus (stu)>
+	<!ELEMENT stu (name,age)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+]> -->
+
+<stus>
+	<stu>
+		<name>LEO</name>
+		<age>12</age>
+	</stu>
+	<stu>
+		<name>dfafa</name>
+		<age>19</age>
+	</stu>
+</stus>

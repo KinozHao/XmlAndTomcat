@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gbk"?>
+<stus>
+	<stu id="199">
+		<name>k</name>
+		<age>12</age>
+	</stu>
+	
+		<stu id="1929">
+		<name>k2</name>
+		<age>123</age>
+		<Des>
+		<![CDATA[<a href="http://www.baidu.com"></a>]]>
+		</Des>
+	</stu>
+</stus>
